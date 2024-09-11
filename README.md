@@ -19,5 +19,5 @@ Tenho experiência vasta em desenvolvimento backend e frontend, focando em entre
 
 ### 🌐 Entre em Contato
 
-- **LinkedIn**: [Seu LinkedIn]([#](https://www.linkedin.com/in/david-santos-30712257/))
-- **Email**: [Seu Email](mailto:davidms.santos0@gmail.com)
+- **LinkedIn**: [LinkedIn]([#](https://www.linkedin.com/in/david-santos-30712257/))
+- **Email**: [Email](mailto:davidms.santos0@gmail.com)
