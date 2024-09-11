@@ -1,6 +1,6 @@
 # Olá, Eu Sou David Santos 👋
 
-## Desenvolvedor de Software com 8+ anos de experiência
+## Desenvolvedor de Software
 
 Tenho experiência vasta em desenvolvimento backend e frontend, focando em entregar soluções escaláveis e eficientes para problemas complexos. Aqui estão as principais áreas em que atuo:
 
